@@ -12,7 +12,7 @@ mkdir MexcSpot
 screen -S MexcSpot
 4. Заходим в папку MexcSpot командой:  
 cd MexcSpot
-5. Скачиваем бота в папку ebot командой:  
+5. Скачиваем бота в папку MexcSpot командой:  
 wget https://github.com/ebot732/MexcSpot/releases/download/MexcSpot-17/MexcSpot-17
 6. Даём права на запуск бота командой:  
 chmod 755 MexcSpot-17
