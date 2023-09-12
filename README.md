@@ -2,7 +2,7 @@
 trading bot for exchange MEXC 
 
 
-Бот для спот торговли на криптобирже MEXC (аналог BinSpot-17).
+Бот для спот торговли на криптобирже MEXC (аналог BinSpot-18).
 
 Запуск бота на VPS с ubuntu
 1. Подключаемся к серверу и по умолчанию находимся в корневом каталоге.
@@ -13,11 +13,11 @@ screen -S MexcSpot
 4. Заходим в папку MexcSpot командой:  
 cd MexcSpot
 5. Скачиваем бота в папку MexcSpot командой:  
-wget https://github.com/ebot732/MexcSpot/releases/download/MexcSpot-17/MexcSpot-17
+wget https://github.com/ebot732/MexcSpot/releases/download/MexcSpot-18/MexcSpot-18
 6. Даём права на запуск бота командой:  
-chmod 755 MexcSpot-17
+chmod 755 MexcSpot-18
 7. Запускаем  бота командой:  
-./MexcSpot-17  
+./MexcSpot-18  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
