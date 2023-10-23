@@ -1,5 +1,5 @@
 # MexcSpot
-trading bot for exchange MEXC 
+trading bot for MEXC exchange. 
 
 
 Бот для спот торговли на криптобирже MEXC (аналог BinSpot-19).
