@@ -13,11 +13,11 @@ screen -S MexcSpot
 4. Заходим в папку MexcSpot командой:  
 cd MexcSpot
 5. Скачиваем бота в папку MexcSpot командой:  
-wget https://github.com/ebot732/MexcSpot/releases/download/MexcSpot-19/MexcSpot-19
+wget https://github.com/ebot732/MexcSpot/releases/download/MexcSpot-20/MexcSpot-20
 6. Даём права на запуск бота командой:  
-chmod 755 MexcSpot-19
+chmod 755 MexcSpot-20
 7. Запускаем  бота командой:  
-./MexcSpot-19  
+./MexcSpot-20  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
