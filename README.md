@@ -2,7 +2,7 @@
 trading bot for MEXC exchange. 
 
 
-Бот для спот торговли на криптобирже MEXC (аналог BinSpot-21).
+Бот для спот торговли на криптобирже MEXC (аналог BinSpot-22).
    Бот может работать в одном из 3-х режимов:
 1.  Режим стандартный- перебор пар для выбора подходящей по всем заданным условиям: 
   - объем торгов за 24 часа в USDT больше указанного в настройках;
@@ -29,11 +29,11 @@ screen -S MexcSpot
 4. Заходим в папку MexcSpot командой:  
 cd MexcSpot
 5. Скачиваем бота в папку MexcSpot командой:  
-wget https://github.com/ebot732/MexcSpot/releases/download/MexcSpot-21/MexcSpot-21
+wget https://github.com/ebot732/MexcSpot/releases/download/MexcSpot-22/MexcSpot-22
 6. Даём права на запуск бота командой:  
-chmod 755 MexcSpot-21
+chmod 755 MexcSpot-22
 7. Запускаем  бота командой:  
-./MexcSpot-21  
+./MexcSpot-22  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
