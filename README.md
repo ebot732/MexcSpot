@@ -1,6 +1,6 @@
 # MexcSpot
-trading bot for MEXC exchange. 
-
+trading bot for MEXC exchange.  
+Сайт ботов: https://ebot732.github.io/   
 
 Бот для спот торговли на криптобирже MEXC (аналог BinSpot-22).
    Бот может работать в одном из 3-х режимов:
